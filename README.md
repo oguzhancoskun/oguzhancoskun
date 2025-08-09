@@ -3,7 +3,7 @@
 
 ---
 
-![Header Image](https://raw.githubusercontent.com/oguzhancoskun/oguzhancoskun/master/anvil.png)
+![Header Image](https://raw.githubusercontent.com/oguzhancoskun/oguzhancoskun/main/anvil.png)
 
 ---
 
