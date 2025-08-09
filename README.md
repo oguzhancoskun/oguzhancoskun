@@ -1,5 +1,5 @@
 # Oguzhan Coskun  
-*AWS Certified Solutions Architect | DevOps Engineer | Python & Golang Enthusiast*
+*AWS Certified Solutions Architect | Serverless Expert | Python & Golang Enthusiast*
 
 ---
 
@@ -8,8 +8,8 @@
 ---
 
 ## About Me  
-- 5+ years experience in cloud architecture, DevOps, and software development  
-- Specialist in AWS services, serverless architectures, infrastructure as code  
+- 12+ years of experience in cloud architecture, DevOps, and software development  
+- Specialist in AWS services, serverless architectures, and infrastructure as code  
 - Passionate about automation, scalable cloud solutions, and machine learning integration  
 - Hobbies: Chess, Cooking, Philosophy, Etymology, Dream Analysis  
 
@@ -21,9 +21,9 @@
 - **Others:** Serverless frameworks, monitoring & logging tools  
 
 ## Featured Projects  
-- [Project 1](https://github.com/oguzhancoskun/project1) – Short description  
-- [Project 2](https://github.com/oguzhancoskun/project2) – Short description  
+- [aws-ssm.nvim](https://github.com/oguzhancoskun/aws-ssm.nvim) – Neovim AWS SSM Parameter Store Plugin
+- [Twingte Terraform Module](https://github.com/oguzhancoskun/terraform-twingate-twingate) – Twingate Terraform Module 
 
 ## Let's Connect  
 - LinkedIn: [linkedin.com/in/oguzhancoskun](https://linkedin.com/in/oguzhancoskun)  
-- Email: oguzhan@example.com  
+- Email: oguzhan@nsourceio
