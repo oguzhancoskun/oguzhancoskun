@@ -1,4 +1,4 @@
-![Header Image](https://raw.githubusercontent.com/oguzhancoskun/oguzhancoskun/main/anvil.png)
+![Header Image](https://raw.githubusercontent.com/oguzhancoskun/oguzhancoskun/main/head.jpg)
 
 # Oguzhan Coskun
 
